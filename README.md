@@ -25,15 +25,15 @@ This workshop introduces participants to Android application security through ha
 - Q&A 
 
 ---
-
+ 
 ## 🧪 Challenges
 
 | Section | Description | Link |
 |--------|-------------|------|
-| 📂 `strings-xml` | Investigate `strings.xml` using JADX-GUI | [Go to Challenge](./challenges/challenge1.apk) |
-| 📂 `source-code-review` | Read & review APK source using JADX | [Go to Challenge](./challenges/challenge2.apk) |
-| 📂 `reverse-engineering` | Reverse engineer obfuscated logic | [Go to Challenge](./challenges/challenge3.apk) |
-| 📂 `interception` | Intercept and analyze app traffic | [Go to Challenge](./challenges/challenge4.apk) |
+| 📂 `strings-xml` | Investigate `strings.xml` using JADX-GUI | [Go to Challenge](./Challenges/challenge1.apk) |
+| 📂 `source-code-review` | Read & review APK source using JADX | [Go to Challenge](./Challenges/challenge2.apk) |
+| 📂 `reverse-engineering` | Reverse engineer obfuscated logic | [Go to Challenge](./Challenges/challenge3.apk) |
+| 📂 `interception` | Intercept and analyze app traffic | [Go to Challenge](./Challenges/challenge4.apk) |
 
 ---
 
